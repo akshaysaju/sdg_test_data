@@ -1,0 +1,11 @@
+policy_id,auto_make,auto_model,auto_year,incident_type,collision_type,incident_severity,total_claim_amount,injury_claim,property_claim,vehicle_claim
+1001,Saab,92x,2004,1,2,3,71610,6510,13020,52080
+1002,Mercedes,E400,2007,3,0,1,5070,780,780,3510
+1003,Dodge,RAM,2007,2,1,1,34650,7700,3850,23100
+1004,Chevrolet,Tahoe,2014,1,1,3,63400,6340,6340,50720
+1005,Accura,RSX,2009,3,0,1,6500,1300,650,4550
+1006,Saab,95,2003,2,1,3,64100,6410,6410,51280
+1007,Nissan,Pathfinder,2012,2,1,1,78650,21450,7150,50050
+1008,Audi,A5,2015,2,1,4,51590,9380,9380,32830
+1009,Toyota,Camry,2012,1,1,4,27700,2770,2770,22160
+1010,Saab,92x,1996,1,1,4,42300,4700,4700,32900
