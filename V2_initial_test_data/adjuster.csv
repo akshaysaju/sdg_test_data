@@ -1,0 +1,11 @@
+Adjuster_ID,Name,Department_ID,Experience,Contact_Number,Supervisor_ID
+1,Rajesh,1,5,9876543210,2
+2,Priya,2,10,9123456789,8
+3,Anil,3,15,9988776655,1
+4,Anand,4,5,9876543211,2
+5,Adarsh,5,10,9123456790,8
+6,Albin,1,15,9988776656,1
+7,Gopi,2,5,9876543212,2
+8,Priya,3,10,9123456791,8
+9,Amar,4,15,9988776657,1
+10,Rajesh,5,5,9876543213,2
