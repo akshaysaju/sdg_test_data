@@ -1,0 +1,16 @@
+CustomerID,FirstName,LastName,DateOfBirth,CreditScore,RiskLevelID,AnnualIncome
+1,John,Doe,1985-03-15,720,2,75000.00
+2,Jane,Smith,1990-07-22,750,1,85000.00
+3,Robert,Johnson,1978-11-30,680,3,65000.00
+4,Emily,Brown,1982-09-05,790,1,95000.00
+5,Michael,Davis,1995-01-18,670,3,55000.00
+6,Sarah,Wilson,1988-06-12,730,2,80000.00
+7,David,Anderson,1976-04-25,810,1,110000.00
+8,Jennifer,Taylor,1992-12-03,700,2,70000.00
+9,Christopher,Thomas,1983-08-20,640,4,50000.00
+10,Lisa,Jackson,1987-02-14,760,2,88000.00
+11,William,White,1980-10-08,710,2,78000.00
+12,Mary,Harris,1993-05-27,820,1,105000.00
+13,James,Martin,1975-07-19,690,3,62000.00
+14,Patricia,Thompson,1991-03-09,740,2,82000.00
+15,Richard,Garcia,1986-11-23,630,4,48000.00

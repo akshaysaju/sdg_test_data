@@ -1,0 +1,16 @@
+PaymentID,PolicyID,PaymentDate,Amount,PaymentMethod
+1,1,2023-01-01,125.00,Credit Card
+2,2,2023-02-15,180.00,Bank Transfer
+3,3,2023-03-10,250.00,Credit Card
+4,4,2023-01-01,450.00,Bank Transfer
+5,5,2023-04-01,200.00,Credit Card
+6,6,2023-05-20,150.00,Bank Transfer
+7,7,2023-06-01,30.00,Credit Card
+8,8,2023-07-15,150.00,Bank Transfer
+9,9,2023-08-01,600.00,Credit Card
+10,10,2023-09-01,200.00,Bank Transfer
+11,11,2023-10-01,220.00,Credit Card
+12,12,2023-11-15,500.00,Bank Transfer
+13,13,2023-12-01,175.00,Credit Card
+14,14,2023-01-15,170.00,Bank Transfer
+15,15,2023-02-01,50.00,Credit Card
