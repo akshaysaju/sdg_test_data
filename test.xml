@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><mxGraphModel dx="1183" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" /><!-- User Input Layer -->
+<mxCell id="2" value="User Input" style="rounded=1;fillColor=#D9EAD3;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="20" y="50" width="200" height="50" as="geometry" />
+</mxCell>
+<mxCell id="3" value="Application Context &amp; Table Names" style="rounded=1;fillColor=#FFF2CC;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="20" y="110" width="200" height="50" as="geometry" />
+</mxCell>
+<mxCell id="4" value="Ask Key Fields &amp; Relationships" style="rounded=1;fillColor=#FFF2CC;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="20" y="170" width="200" height="50" as="geometry" />
+</mxCell>
+
+<!-- LLM Data Generation -->
+<mxCell id="5" value="Generate Training Data (100 rows)" style="rounded=1;fillColor=#CFE2F3;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="250" y="110" width="250" height="50" as="geometry" />
+</mxCell>
+<mxCell id="6" value="OpenAI LLM" style="rounded=1;fillColor=#A4C2F4;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="250" y="170" width="250" height="50" as="geometry" />
+</mxCell>
+
+<!-- Metadata Creation -->
+<mxCell id="7" value="Create Metadata (SDV)" style="rounded=1;fillColor=#EAD1DC;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="520" y="110" width="200" height="50" as="geometry" />
+</mxCell>
+
+<!-- Gaussian Copula Synthesizer -->
+<mxCell id="8" value="Train Gaussian Copula Synthesizer" style="rounded=1;fillColor=#F9CB9C;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="750" y="110" width="250" height="50" as="geometry" />
+</mxCell>
+<mxCell id="9" value="Generate Synthetic Data" style="rounded=1;fillColor=#F6B26B;strokeColor=#000000;" vertex="1" parent="1">
+  <mxGeometry x="750" y="170" width="250" height="50" as="geometry" />
+</mxCell>
+
+<!-- Arrows -->
+<mxCell id="10" edge="1" parent="1" source="3" target="4">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="11" edge="1" parent="1" source="4" target="5">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="12" edge="1" parent="1" source="5" target="6">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="13" edge="1" parent="1" source="6" target="7">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="14" edge="1" parent="1" source="7" target="8">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+<mxCell id="15" edge="1" parent="1" source="8" target="9">
+  <mxGeometry relative="1" as="geometry" />
+</mxCell>
+
+  </root>
+</mxGraphModel>
